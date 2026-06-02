@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Getting started 
 
 HELLO UNIVERSE AND KINGSTON 
@@ -8,3 +9,6 @@ Making a change via GitHub
 
 This is a practice repo. It is sunny today.
 
+=======
+There are lots of azaleas
+>>>>>>> fc88ac3 (fixing it)
