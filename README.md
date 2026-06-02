@@ -1,4 +1,4 @@
-Getting started 
+# Getting started   
 
 HELLO UNIVERSE AND KINGSTON 
 
@@ -9,3 +9,8 @@ Making a change via GitHub
 This is a practice repo. It is sunny today.
 
 There are lots of azaleas
+
+
+Adding lots of content
+
+Dean's meetings be wildin'
